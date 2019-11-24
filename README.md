@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # libGDX_helloWorld
 
 ## Summary
