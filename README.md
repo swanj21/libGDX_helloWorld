@@ -2,7 +2,6 @@
 
 ## Summary
 This is a simple Hello World example using the LibGdx framework. <br>
-All it does is display an image of the world when run.
 
 ## Build
 This program is built using Gradle. <br>
